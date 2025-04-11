@@ -1,10 +1,10 @@
-# Credit @LazyDeveloper.
+# Credit @onefighterarmy.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
+# Born to make history @onefighterarmy !
 # Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# 🥰  Thank you for giving me credit @onefighterarmy  🥰
+# for any error please contact me -> telegram@onefighterarmy or insta @onefighterarmy 
+# rip paid developers 🤣 - >> No need to buy paid source code while @onefighterarmy is here 😍😍
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import *
@@ -487,10 +487,10 @@ async def get_tutorial(chat_id):
   
 
 
-# Credit @LazyDeveloper.
+# Credit @onefighterarmy.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# Born to make history @onefighterarmy !
+# Thank you onefighterarmy for helping us in this Journey
+# 🥰  Thank you for giving me credit @onefighterarmy  🥰
+# for any error please contact me -> telegram@onefighterarmy or insta @onefighterarmy 
+# rip paid developers 🤣 - >> No need to buy paid source code while @onefighterarmy is here 😍😍
